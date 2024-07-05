@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arun-Rider
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aruncse60@gmail.com
 - 😄 Pronouns: He/Him
